@@ -1,8 +1,3 @@
 # Neural_Networks_practice
 
-hehehe
-hahaha
-hohoho
-gagaga
-
-wanghuiquan
+This is a project for neural network learning
